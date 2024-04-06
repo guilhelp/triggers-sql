@@ -1,0 +1,7 @@
+Triggers (Acionadores)
+
+Procediemntos armazenados que são disparados automaticamente em resposta e eventos em tabelas ou views
+
+- Ajuda a tirar a lógica de logs da aplicação
+
+Serve pra criar uma lista de registro das coisas que acontecem no banco
